@@ -1,2 +1,2 @@
 print("hello")
-a=6
+a=10
